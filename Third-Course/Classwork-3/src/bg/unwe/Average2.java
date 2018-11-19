@@ -21,7 +21,7 @@ public class Average2 {
 
         int averageInt = (firstNum + secondNum + thirdNum + fourthNum) / 4;
 
-//        BigDecimal averageDouble = BigDecimal.valueOf(firstNum + secondNum + thirdNum + fourthNum).divide(BigDecimal.valueOf(4L));
+//      BigDecimal averageDouble = BigDecimal.valueOf(firstNum + secondNum + thirdNum + fourthNum).divide(BigDecimal.valueOf(4L));
 
         double averageDouble = (firstNum + secondNum + thirdNum + fourthNum) / 4D;
 

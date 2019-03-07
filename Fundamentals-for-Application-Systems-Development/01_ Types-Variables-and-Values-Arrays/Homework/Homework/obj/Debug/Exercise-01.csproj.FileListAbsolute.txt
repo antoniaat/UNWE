@@ -1,7 +1,0 @@
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework\Homework\bin\Debug\Homework.exe.config
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework\Homework\bin\Debug\Homework.exe
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework\Homework\bin\Debug\Homework.pdb
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework\Homework\obj\Debug\Exercise-01.csprojAssemblyReference.cache
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework\Homework\obj\Debug\Exercise-01.csproj.CoreCompileInputs.cache
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework\Homework\obj\Debug\Homework.exe
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework\Homework\obj\Debug\Homework.pdb

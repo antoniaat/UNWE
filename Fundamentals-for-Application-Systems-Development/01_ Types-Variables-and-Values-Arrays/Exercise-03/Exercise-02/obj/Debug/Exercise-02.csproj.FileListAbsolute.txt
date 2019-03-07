@@ -1,6 +1,0 @@
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Exercise-03\Exercise-02\bin\Debug\Exercise-02.exe.config
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Exercise-03\Exercise-02\bin\Debug\Exercise-02.exe
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Exercise-03\Exercise-02\bin\Debug\Exercise-02.pdb
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Exercise-03\Exercise-02\obj\Debug\Exercise-02.csproj.CoreCompileInputs.cache
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Exercise-03\Exercise-02\obj\Debug\Exercise-02.exe
-C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Exercise-03\Exercise-02\obj\Debug\Exercise-02.pdb

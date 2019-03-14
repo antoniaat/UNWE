@@ -1,0 +1,7 @@
+C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework-03\Exercise-01\bin\Debug\Exercise-01.exe.config
+C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework-03\Exercise-01\bin\Debug\Exercise-01.exe
+C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework-03\Exercise-01\bin\Debug\Exercise-01.pdb
+C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework-03\Exercise-01\obj\Debug\Exercise-01.csprojAssemblyReference.cache
+C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework-03\Exercise-01\obj\Debug\Exercise-01.csproj.CoreCompileInputs.cache
+C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework-03\Exercise-01\obj\Debug\Exercise-01.exe
+C:\Users\Antonia\Desktop\GitHub\UNWE\Fundamentals-for-Application-Systems-Development\01_ Types-Variables-and-Values-Arrays\Homework-03\Exercise-01\obj\Debug\Exercise-01.pdb
